@@ -14,4 +14,11 @@ Ingrese la cantidad de numeros a utilizar: 5
 4
 6
 9
+
+
+
+
+
+
+
 y ahi el programa indicara la multiplicacion o suma
