@@ -20,4 +20,4 @@ Ingrese la cantidad de numeros a utilizar: 5
 9
 
 
-y ahi el programa indicara la multiplicacion o suma
+y ahi el programa indicara el resultado de la multiplicacion o la suma
